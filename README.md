@@ -1,2 +1,2 @@
 # frontal-face-detection
-Detecting faces that are actually facing towards the camera
+Detecting faces that are fully facing towards the camera
